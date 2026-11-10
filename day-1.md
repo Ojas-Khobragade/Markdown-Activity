@@ -4,7 +4,7 @@
 After day $d_1$, I completed $c^2$ practice tasks.
 
 $$
-p = \frac{c}{t} \times 100.
+p = \frac{c}{t} \times 100
 $$
  c represents tasks that are done, t is the total tasks left, and p is the final percentage that are completed.
 ## Morning Planning
