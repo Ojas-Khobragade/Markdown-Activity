@@ -4,9 +4,9 @@
 After day $d_1$, I completed $c^2$ practice tasks.
 
 $$
-p = \frac{c}{t} \times 100. c represents tasks that are done, t is the total tasks left, and p is the final percentage that are completed.
+p = \frac{c}{t} \times 100.
 $$
-
+ c represents tasks that are done, t is the total tasks left, and p is the final percentage that are completed.
 ## Morning Planning
 <img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
