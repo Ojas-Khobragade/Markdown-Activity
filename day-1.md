@@ -1,7 +1,7 @@
 # Daily Learning
 
 ## Learning Metrics
-
+After day $d_1$, I completed $c^2$ practice tasks.
 $$
 p = \frac{c}{t} \times 100
 $$
