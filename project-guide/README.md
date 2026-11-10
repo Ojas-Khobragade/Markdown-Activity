@@ -1,5 +1,20 @@
 # Communicate using Markdown
 
+## Overview
+In this project you learn about markdown files and how to use them.
+
+## Features
+- [ ] Contains checks to make sure you are doing it correct
+- [ ] Has detailed instructions
+- [ ] Has links
+
+## Contents
+
+## Installation
+
+## Usage
+
+
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 Hey Ojas-Khobragade!
