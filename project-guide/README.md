@@ -1,6 +1,6 @@
 # Communicate using Markdown
 
-## Overview
+## Overview 
 In this project you learn about markdown files and how to use them.
 
 ## Features
@@ -9,6 +9,10 @@ In this project you learn about markdown files and how to use them.
 - [ ] Has links
 
 ## Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
 
 ## Installation
 
