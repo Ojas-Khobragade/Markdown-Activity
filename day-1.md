@@ -15,6 +15,15 @@ $$
 ## Review
 Convert an dd image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
+## Prerequisites
+Use a web browser to read the journal on GitHub. For a local copy, install Git and a text editor. A GitHub account with repository access is required to contribute.
+
+## Installation
+Run these commands in a terminal to download this repository, then enter its folder:
+```bash
+git clone https://github.com/YOUR-USERNAME/skills-communicate-using-markdown.git
+cd skills-communicate-using-markdown
+```
 ```bash
 ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
 ```
