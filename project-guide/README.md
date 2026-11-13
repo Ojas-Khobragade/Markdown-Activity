@@ -5,11 +5,11 @@ In this project you learn about markdown files and how to use them.
 
 ## Features
 
-* [ ] Contains checks to make sure you are doing it correct
+* Contains checks to make sure you are doing it correct
 
-* [ ] Has detailed instructions
+* Has detailed instructions
 
-* [ ] Has links
+* Has links
 
 ## Contents
 
@@ -32,6 +32,10 @@ In this project you learn about markdown files and how to use them.
 * [Support](#support)
 
 * [License](#license)
+
+* [Troubleshooting](#troubleshooting)
+
+* [Review checklist](#review-checklist)
 
 ## Prerequisites
 
@@ -91,9 +95,24 @@ If you are stuck or find a mistake, ask for help by opening an issue on the [Mar
 
 This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
 
+## Troubleshooting
+
+**Problem:** Running `cat day-1.md` prints `cat: day-1.md: No such file or directory`.
+
+**Solution:** You are probably not in the repository's root folder. Run `cd Markdown-Activity` to enter the cloned folder, then run `ls` (or `dir` on Windows) to confirm `day-1.md` is listed. If it is still missing, check that you are on the branch that contains the journal, since a file that exists on `start-blog` may not exist on another branch until it is merged.
+
 ---
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+## Review checklist
+
+- [x] Confirmed the purpose, audience, and feature descriptions are accurate.
+- [x] Followed setup and usage instructions and compared the result.
+- [x] Tested Contents and file links and checked image alternative text.
+- [x] Verified contribution, support, and license information.
+
+---
+
+<img src="https://octodex.github.com/images/Professortocat_v2.png" alt="Mona, the GitHub Octocat mascot dressed as a professor" align="right" height="200px" />
 
 Hey Ojas-Khobragade!
 
@@ -101,7 +120,7 @@ Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
 Remember, it's self-paced so feel free to take a break! ☕️
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Ojas-Khobragade/Markdown-Activity/issues/1)
+[![Go to Exercise](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Ojas-Khobragade/Markdown-Activity/issues/1)
 
 ---
 
