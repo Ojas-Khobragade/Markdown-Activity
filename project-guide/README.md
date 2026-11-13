@@ -23,6 +23,10 @@ In this project you learn about markdown files and how to use them.
 
 * [Usage](#usage)
 
+* [Expected output](#expected-output)
+
+* [Project files](#project-files)
+
 ## Prerequisites
 
 Use a web browser to read the project on GitHub. To work on a local copy, install Git and a text editor such as VS Code. A GitHub account with access to the repository is required to contribute.
@@ -39,6 +43,36 @@ cd Markdown-Activity
 To verify setup, open `day-1.md` in your editor. If the file is present, setup worked. No build or dependency installation is required.
 
 ## Usage
+
+From the `Markdown-Activity` repository folder, display the journal in a terminal with this command. On Windows PowerShell, use `Get-Content day-1.md` instead.
+
+```bash
+cat day-1.md
+```
+
+For formatted reading, open [the journal](../day-1.md) on GitHub. To edit it, select the pencil icon, change the text, and use the Preview tab to check the result. Check or uncheck tasks by editing their Markdown and committing your changes.
+
+## Expected output
+
+The terminal displays the source Markdown, which is the raw text with symbols like `#` and `- [ ]` still visible. Your title may differ from this shortened example:
+
+```text
+# Daily Learning
+
+## Morning Planning
+```
+
+On GitHub, the same file is rendered Markdown: headings appear at different sizes and task markers become checkboxes.
+
+## Project files
+
+| File | Purpose |
+| --- | --- |
+| [Journal](../day-1.md) | Daily plans, code samples, and learning metrics |
+| [Project README](README.md) | Setup and usage instructions |
+
+---
+
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
 Hey Ojas-Khobragade!
