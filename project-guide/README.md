@@ -27,6 +27,12 @@ In this project you learn about markdown files and how to use them.
 
 * [Project files](#project-files)
 
+* [Contributing](#contributing)
+
+* [Support](#support)
+
+* [License](#license)
+
 ## Prerequisites
 
 Use a web browser to read the project on GitHub. To work on a local copy, install Git and a text editor such as VS Code. A GitHub account with access to the repository is required to contribute.
@@ -70,6 +76,20 @@ On GitHub, the same file is rendered Markdown: headings appear at different size
 | --- | --- |
 | [Journal](../day-1.md) | Daily plans, code samples, and learning metrics |
 | [Project README](README.md) | Setup and usage instructions |
+
+## Contributing
+
+To suggest a change, fork the repository or create a new branch from the default branch. Keep each change focused on one improvement, such as fixing a typo or clarifying one section. Preview your Markdown on GitHub and click every link to confirm it works. Then open a pull request with a short title and a description of what you changed and why.
+
+This project has no application test suite to run for the journal. Instead, the course's GitHub Actions checks evaluate submissions automatically, so check the pull request's Checks tab after you open it.
+
+## Support
+
+If you are stuck or find a mistake, ask for help by opening an issue on the [Markdown-Activity Issues tab](https://github.com/Ojas-Khobragade/Markdown-Activity/issues). Include the lesson number, what you tried, and the exact error message or a description of what you expected to happen. Do not post passwords, tokens, or other private information.
+
+## License
+
+This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
 
 ---
 
